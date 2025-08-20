@@ -1,0 +1,642 @@
+[
+    {
+        "azimuth": -6.354,
+        "elevation": -11.742,
+        "timeOffset": -7.0
+    },
+    {
+        "azimuth": -4.548,
+        "elevation": -1.99,
+        "timeOffset": -7.0
+    },
+    {
+        "azimuth": -2.732,
+        "elevation": 3.4,
+        "timeOffset": -7.0
+    },
+    {
+        "azimuth": -0.911,
+        "elevation": -5.29,
+        "timeOffset": -7.0
+    },
+    {
+        "azimuth": 0.911,
+        "elevation": -0.78,
+        "timeOffset": -7.0
+    },
+    {
+        "azimuth": 2.732,
+        "elevation": 4.61,
+        "timeOffset": -7.0
+    },
+    {
+        "azimuth": 4.548,
+        "elevation": -4.08,
+        "timeOffset": -7.0
+    },
+    {
+        "azimuth": 6.354,
+        "elevation": 1.31,
+        "timeOffset": -7.0
+    },
+    {
+        "azimuth": -6.354,
+        "elevation": -6.5,
+        "timeOffset": -4.3334
+    },
+    {
+        "azimuth": -4.548,
+        "elevation": -1.11,
+        "timeOffset": -4.3334
+    },
+    {
+        "azimuth": -2.732,
+        "elevation": 4.28,
+        "timeOffset": -4.3334
+    },
+    {
+        "azimuth": -0.911,
+        "elevation": -4.41,
+        "timeOffset": -4.3334
+    },
+    {
+        "azimuth": 0.911,
+        "elevation": 0.1,
+        "timeOffset": -4.3334
+    },
+    {
+        "azimuth": 2.732,
+        "elevation": 6.48,
+        "timeOffset": -4.3334
+    },
+    {
+        "azimuth": 4.548,
+        "elevation": -3.2,
+        "timeOffset": -4.3334
+    },
+    {
+        "azimuth": 6.354,
+        "elevation": 2.19,
+        "timeOffset": -4.3334
+    },
+    {
+        "azimuth": -6.354,
+        "elevation": -3.86,
+        "timeOffset": -1.6668
+    },
+    {
+        "azimuth": -4.548,
+        "elevation": 1.53,
+        "timeOffset": -1.6668
+    },
+    {
+        "azimuth": -2.732,
+        "elevation": -9.244,
+        "timeOffset": -1.6668
+    },
+    {
+        "azimuth": -0.911,
+        "elevation": -1.77,
+        "timeOffset": -1.6668
+    },
+    {
+        "azimuth": 0.911,
+        "elevation": 2.74,
+        "timeOffset": -1.6668
+    },
+    {
+        "azimuth": 2.732,
+        "elevation": -5.95,
+        "timeOffset": -1.6668
+    },
+    {
+        "azimuth": 4.548,
+        "elevation": -0.56,
+        "timeOffset": -1.6668
+    },
+    {
+        "azimuth": 6.354,
+        "elevation": 4.83,
+        "timeOffset": -1.6668
+    },
+    {
+        "azimuth": -6.354,
+        "elevation": -2.98,
+        "timeOffset": 0.99998
+    },
+    {
+        "azimuth": -4.548,
+        "elevation": 2.41,
+        "timeOffset": 0.99998
+    },
+    {
+        "azimuth": -2.732,
+        "elevation": -6.28,
+        "timeOffset": 0.99998
+    },
+    {
+        "azimuth": -0.911,
+        "elevation": -0.89,
+        "timeOffset": 0.99998
+    },
+    {
+        "azimuth": 0.911,
+        "elevation": 3.62,
+        "timeOffset": 0.99998
+    },
+    {
+        "azimuth": 2.732,
+        "elevation": -5.07,
+        "timeOffset": 0.99998
+    },
+    {
+        "azimuth": 4.548,
+        "elevation": 0.32,
+        "timeOffset": 0.99998
+    },
+    {
+        "azimuth": 6.354,
+        "elevation": 7.58,
+        "timeOffset": 0.99998
+    },
+    {
+        "azimuth": -6.354,
+        "elevation": -0.34,
+        "timeOffset": 3.66664
+    },
+    {
+        "azimuth": -4.548,
+        "elevation": 5.18,
+        "timeOffset": 3.66664
+    },
+    {
+        "azimuth": -2.732,
+        "elevation": -3.64,
+        "timeOffset": 3.66664
+    },
+    {
+        "azimuth": -0.911,
+        "elevation": 1.75,
+        "timeOffset": 3.66664
+    },
+    {
+        "azimuth": 0.911,
+        "elevation": -25,
+        "timeOffset": 3.66664
+    },
+    {
+        "azimuth": 2.732,
+        "elevation": -2.43,
+        "timeOffset": 3.66664
+    },
+    {
+        "azimuth": 4.548,
+        "elevation": 2.96,
+        "timeOffset": 3.66664
+    },
+    {
+        "azimuth": 6.354,
+        "elevation": -5.73,
+        "timeOffset": 3.66664
+    },
+    {
+        "azimuth": -6.354,
+        "elevation": 0.54,
+        "timeOffset": 6.3333
+    },
+    {
+        "azimuth": -4.548,
+        "elevation": 9.7,
+        "timeOffset": 6.3333
+    },
+    {
+        "azimuth": -2.732,
+        "elevation": -2.76,
+        "timeOffset": 6.3333
+    },
+    {
+        "azimuth": -0.911,
+        "elevation": 2.63,
+        "timeOffset": 6.3333
+    },
+    {
+        "azimuth": 0.911,
+        "elevation": -7.65,
+        "timeOffset": 6.3333
+    },
+    {
+        "azimuth": 2.732,
+        "elevation": -1.55,
+        "timeOffset": 6.3333
+    },
+    {
+        "azimuth": 4.548,
+        "elevation": 3.84,
+        "timeOffset": 6.3333
+    },
+    {
+        "azimuth": 6.354,
+        "elevation": -4.85,
+        "timeOffset": 6.3333
+    },
+    {
+        "azimuth": -6.354,
+        "elevation": 3.18,
+        "timeOffset": 8.99996
+    },
+    {
+        "azimuth": -4.548,
+        "elevation": -5.51,
+        "timeOffset": 8.99996
+    },
+    {
+        "azimuth": -2.732,
+        "elevation": -0.12,
+        "timeOffset": 8.99996
+    },
+    {
+        "azimuth": -0.911,
+        "elevation": 5.73,
+        "timeOffset": 8.99996
+    },
+    {
+        "azimuth": 0.911,
+        "elevation": -4.3,
+        "timeOffset": 8.99996
+    },
+    {
+        "azimuth": 2.732,
+        "elevation": 1.09,
+        "timeOffset": 8.99996
+    },
+    {
+        "azimuth": 4.548,
+        "elevation": -16.042,
+        "timeOffset": 8.99996
+    },
+    {
+        "azimuth": 6.354,
+        "elevation": -2.21,
+        "timeOffset": 8.99996
+    },
+    {
+        "azimuth": -6.354,
+        "elevation": 4.06,
+        "timeOffset": 11.66662
+    },
+    {
+        "azimuth": -4.548,
+        "elevation": -4.63,
+        "timeOffset": 11.66662
+    },
+    {
+        "azimuth": -2.732,
+        "elevation": 0.76,
+        "timeOffset": 11.66662
+    },
+    {
+        "azimuth": -0.911,
+        "elevation": 15,
+        "timeOffset": 11.66662
+    },
+    {
+        "azimuth": 0.911,
+        "elevation": -3.42,
+        "timeOffset": 11.66662
+    },
+    {
+        "azimuth": 2.732,
+        "elevation": 1.97,
+        "timeOffset": 11.66662
+    },
+    {
+        "azimuth": 4.548,
+        "elevation": -6.85,
+        "timeOffset": 11.66662
+    },
+    {
+        "azimuth": 6.354,
+        "elevation": -1.33,
+        "timeOffset": 11.66662
+    },
+    {
+        "azimuth": -6.354,
+        "elevation": -5.62,
+        "timeOffset": 19.66661
+    },
+    {
+        "azimuth": -4.548,
+        "elevation": -0.23,
+        "timeOffset": 19.66661
+    },
+    {
+        "azimuth": -2.732,
+        "elevation": 5.43,
+        "timeOffset": 19.66661
+    },
+    {
+        "azimuth": -0.911,
+        "elevation": -3.53,
+        "timeOffset": 19.66661
+    },
+    {
+        "azimuth": 0.911,
+        "elevation": 0.98,
+        "timeOffset": 19.66661
+    },
+    {
+        "azimuth": 2.732,
+        "elevation": -19.582,
+        "timeOffset": 19.66661
+    },
+    {
+        "azimuth": 4.548,
+        "elevation": -2.32,
+        "timeOffset": 19.66661
+    },
+    {
+        "azimuth": 6.354,
+        "elevation": 3.07,
+        "timeOffset": 19.66661
+    },
+    {
+        "azimuth": -6.354,
+        "elevation": -4.74,
+        "timeOffset": 22.33327
+    },
+    {
+        "azimuth": -4.548,
+        "elevation": 0.65,
+        "timeOffset": 22.33327
+    },
+    {
+        "azimuth": -2.732,
+        "elevation": 11.75,
+        "timeOffset": 22.33327
+    },
+    {
+        "azimuth": -0.911,
+        "elevation": -2.65,
+        "timeOffset": 22.33327
+    },
+    {
+        "azimuth": 0.911,
+        "elevation": 1.86,
+        "timeOffset": 22.33327
+    },
+    {
+        "azimuth": 2.732,
+        "elevation": -7.15,
+        "timeOffset": 22.33327
+    },
+    {
+        "azimuth": 4.548,
+        "elevation": -1.44,
+        "timeOffset": 22.33327
+    },
+    {
+        "azimuth": 6.354,
+        "elevation": 3.95,
+        "timeOffset": 22.33327
+    },
+    {
+        "azimuth": -6.354,
+        "elevation": -2.1,
+        "timeOffset": 24.99993
+    },
+    {
+        "azimuth": -4.548,
+        "elevation": 3.29,
+        "timeOffset": 24.99993
+    },
+    {
+        "azimuth": -2.732,
+        "elevation": -5.4,
+        "timeOffset": 24.99993
+    },
+    {
+        "azimuth": -0.911,
+        "elevation": -0.01,
+        "timeOffset": 24.99993
+    },
+    {
+        "azimuth": 0.911,
+        "elevation": 4.5,
+        "timeOffset": 24.99993
+    },
+    {
+        "azimuth": 2.732,
+        "elevation": -4.19,
+        "timeOffset": 24.99993
+    },
+    {
+        "azimuth": 4.548,
+        "elevation": 1.2,
+        "timeOffset": 24.99993
+    },
+    {
+        "azimuth": 6.354,
+        "elevation": -13.565,
+        "timeOffset": 24.99993
+    },
+    {
+        "azimuth": -6.354,
+        "elevation": -1.22,
+        "timeOffset": 27.66659
+    },
+    {
+        "azimuth": -4.548,
+        "elevation": 4.17,
+        "timeOffset": 27.66659
+    },
+    {
+        "azimuth": -2.732,
+        "elevation": -4.52,
+        "timeOffset": 27.66659
+    },
+    {
+        "azimuth": -0.911,
+        "elevation": 0.87,
+        "timeOffset": 27.66659
+    },
+    {
+        "azimuth": 0.911,
+        "elevation": 6.08,
+        "timeOffset": 27.66659
+    },
+    {
+        "azimuth": 2.732,
+        "elevation": -3.31,
+        "timeOffset": 27.66659
+    },
+    {
+        "azimuth": 4.548,
+        "elevation": 2.08,
+        "timeOffset": 27.66659
+    },
+    {
+        "azimuth": 6.354,
+        "elevation": -6.65,
+        "timeOffset": 27.66659
+    },
+    {
+        "azimuth": -6.354,
+        "elevation": 1.42,
+        "timeOffset": 30.33325
+    },
+    {
+        "azimuth": -4.548,
+        "elevation": -10.346,
+        "timeOffset": 30.33325
+    },
+    {
+        "azimuth": -2.732,
+        "elevation": -1.88,
+        "timeOffset": 30.33325
+    },
+    {
+        "azimuth": -0.911,
+        "elevation": 3.51,
+        "timeOffset": 30.33325
+    },
+    {
+        "azimuth": 0.911,
+        "elevation": -6.06,
+        "timeOffset": 30.33325
+    },
+    {
+        "azimuth": 2.732,
+        "elevation": -0.67,
+        "timeOffset": 30.33325
+    },
+    {
+        "azimuth": 4.548,
+        "elevation": 4.72,
+        "timeOffset": 30.33325
+    },
+    {
+        "azimuth": 6.354,
+        "elevation": -3.97,
+        "timeOffset": 30.33325
+    },
+    {
+        "azimuth": -6.354,
+        "elevation": 2.3,
+        "timeOffset": 32.99991
+    },
+    {
+        "azimuth": -4.548,
+        "elevation": -6.39,
+        "timeOffset": 32.99991
+    },
+    {
+        "azimuth": -2.732,
+        "elevation": -1,
+        "timeOffset": 32.99991
+    },
+    {
+        "azimuth": -0.911,
+        "elevation": 4.39,
+        "timeOffset": 32.99991
+    },
+    {
+        "azimuth": 0.911,
+        "elevation": -5.18,
+        "timeOffset": 32.99991
+    },
+    {
+        "azimuth": 2.732,
+        "elevation": 0.21,
+        "timeOffset": 32.99991
+    },
+    {
+        "azimuth": 4.548,
+        "elevation": 6.98,
+        "timeOffset": 32.99991
+    },
+    {
+        "azimuth": 6.354,
+        "elevation": -3.09,
+        "timeOffset": 32.99991
+    },
+    {
+        "azimuth": -6.354,
+        "elevation": 4.98,
+        "timeOffset": 35.66657
+    },
+    {
+        "azimuth": -4.548,
+        "elevation": -3.75,
+        "timeOffset": 35.66657
+    },
+    {
+        "azimuth": -2.732,
+        "elevation": 1.64,
+        "timeOffset": 35.66657
+    },
+    {
+        "azimuth": -0.911,
+        "elevation": -8.352,
+        "timeOffset": 35.66657
+    },
+    {
+        "azimuth": 0.911,
+        "elevation": -2.54,
+        "timeOffset": 35.66657
+    },
+    {
+        "azimuth": 2.732,
+        "elevation": 2.85,
+        "timeOffset": 35.66657
+    },
+    {
+        "azimuth": 4.548,
+        "elevation": -5.84,
+        "timeOffset": 35.66657
+    },
+    {
+        "azimuth": 6.354,
+        "elevation": -0.45,
+        "timeOffset": 35.66657
+    },
+    {
+        "azimuth": -6.354,
+        "elevation": 8.43,
+        "timeOffset": 38.33323
+    },
+    {
+        "azimuth": -4.548,
+        "elevation": -2.87,
+        "timeOffset": 38.33323
+    },
+    {
+        "azimuth": -2.732,
+        "elevation": 2.52,
+        "timeOffset": 38.33323
+    },
+    {
+        "azimuth": -0.911,
+        "elevation": -6.17,
+        "timeOffset": 38.33323
+    },
+    {
+        "azimuth": 0.911,
+        "elevation": -1.66,
+        "timeOffset": 38.33323
+    },
+    {
+        "azimuth": 2.732,
+        "elevation": 3.73,
+        "timeOffset": 38.33323
+    },
+    {
+        "azimuth": 4.548,
+        "elevation": -4.96,
+        "timeOffset": 38.33323
+    },
+    {
+        "azimuth": 6.354,
+        "elevation": 0.43,
+        "timeOffset": 38.33323
+    }
+]
