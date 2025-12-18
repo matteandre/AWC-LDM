@@ -96,4 +96,15 @@ You can evaluate Our Method in 3D Object Detection using our benchmark in [site]
 Our codebase builds on [site](https://github.com/hancyran/LiDAR-Diffusion)
 
 
+## Citation
 
+```bibtex
+@inproceedings{matteazzi2025augmentation,
+  title={Augmentation of LiDAR Scenes with Adverse Weather Conditions Using Latent Diffusion Models},
+  author={Matteazzi, Andrea and Arnold, Michael and Tutsch, Dietmar},
+  booktitle={International Conference on Neural Information Processing},
+  pages={198--212},
+  year={2025},
+  organization={Springer}
+}
+```
